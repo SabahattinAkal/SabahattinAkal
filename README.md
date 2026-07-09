@@ -85,15 +85,7 @@ Teknik destek süreçlerinde tekrar eden işleri azaltmak için küçük API’l
 
 <div align="center">
 
-## 📊 GitHub İstatistikleri
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SabahattinAkal&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
-
-</div>
+<img src="https://streak-stats.demolab.com?user=SabahattinAkal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
