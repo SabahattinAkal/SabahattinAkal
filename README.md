@@ -87,11 +87,11 @@ Teknik destek süreçlerinde tekrar eden işleri azaltmak için küçük API’l
 
 ## 📊 GitHub İstatistikleri
 
+## 📊 GitHub İstatistikleri
+
 <div align="center">
 
-![Sabahattin'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=SabahattinAkal&show_icons=true&theme=tokyonight&hide_border=true)
-
-![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=SabahattinAkal&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=SabahattinAkal&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub Streak" />
 
 </div>
 </div>
