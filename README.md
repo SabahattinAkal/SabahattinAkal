@@ -85,10 +85,15 @@ Teknik destek süreçlerinde tekrar eden işleri azaltmak için küçük API’l
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SabahattinAkal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+## 📊 GitHub İstatistikleri
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabahattinAkal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<div align="center">
 
+![Sabahattin'in GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=SabahattinAkal&show_icons=true&theme=tokyonight&hide_border=true)
+
+![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=SabahattinAkal&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 </div>
 
 ---
