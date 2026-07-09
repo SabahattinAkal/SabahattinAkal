@@ -66,27 +66,35 @@ Odak noktam:
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Üzerinde Çalıştığım Alanlar
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🧩 İmzalama Sihirbazı</h3>
-      <p>Mali mühür / e-imza kurulumlarını, sertifika kontrollerini ve imzalama problemlerini daha sade hale getiren yardımcı uygulama.</p>
+      <h3>🔐 Dijital İmza & Sertifika Araçları</h3>
+      <p>
+        Mali mühür, e-imza, sertifika seçimi, kurulum kontrolü ve imzalama süreçlerinde yaşanan problemleri sadeleştiren yardımcı araçlar geliştiriyorum.
+      </p>
     </td>
     <td width="50%">
-      <h3>⚡ Action Orbit</h3>
-      <p>Günlük iş akışlarını hızlandırmak, aksiyonları ve kısayolları daha organize yönetmek için geliştirdiğim üretkenlik odaklı proje.</p>
+      <h3>🧾 e-Belge Süreçleri</h3>
+      <p>
+        e-Fatura, e-Arşiv, e-Defter ve benzeri süreçlerde teknik kontrol, hata analizi ve operasyonel işleri hızlandırmaya yönelik çözümler üretiyorum.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛠️ Internal Tools</h3>
-      <p>Teknik destek süreçlerinde tekrar eden işleri azaltmak için geliştirdiğim scriptler, küçük API'ler ve kontrol araçları.</p>
+      <h3>⚙️ Teknik Destek Otomasyonları</h3>
+      <p>
+        Tekrar eden kontrolleri, manuel yapılan işlemleri ve destek süreçlerindeki zaman kaybettiren adımları scriptlere ve küçük araçlara dönüştürüyorum.
+      </p>
     </td>
     <td width="50%">
-      <h3>🌐 API & Automation</h3>
-      <p>Sorgulama, veri kontrolü, servis takibi ve operasyonel süreçleri hızlandırmaya yönelik yardımcı servisler.</p>
+      <h3>🖥️ Masaüstü Uygulamalar</h3>
+      <p>
+        C# / .NET / WPF ile gerçek kullanım senaryolarına odaklanan, sade arayüzlü ve iş çözen Windows uygulamaları geliştiriyorum.
+      </p>
     </td>
   </tr>
 </table>
