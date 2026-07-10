@@ -6,7 +6,7 @@
 
 e-Belge sistemleri, dijital imza süreçleri, masaüstü uygulamalar ve teknik destek süreçlerini hızlandıran araçlar geliştiriyorum.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=C%23+%2F+.NET+%2F+WPF;PowerShell+Automation;SQL+Server+%26+Oracle;Digital+Signature+Tools;Internal+Tools+%26+Support+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=C%23+%2F+.NET+%2F+WPF;SQL+Server+%26+Oracle;Digital+Signature+Tools;Internal+Tools+%26+Support+Automation" alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +28,6 @@ Odak noktam:
 - e-Fatura, e-Arşiv, e-Defter ve e-Belge süreçleri
 - Mali mühür, e-imza, sertifika ve imzalama problemleri
 - C# / .NET / WPF ile masaüstü uygulamalar
-- PowerShell ile Windows otomasyonları
 - SQL Server / Oracle tarafında sorun analizi
 - REST API ve internal tool geliştirme
 
@@ -43,7 +42,6 @@ Odak noktam:
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D7?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Database & Backend
 
