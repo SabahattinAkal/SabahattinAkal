@@ -6,7 +6,7 @@
 
 e-Belge sistemleri, dijital imza süreçleri, masaüstü uygulamalar ve teknik destek süreçlerini hızlandıran araçlar geliştiriyorum.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=C%23+%2F+.NET+%2F+WPF;SQL+Server+%26+Oracle;Digital+Signature+Tools;Internal+Tools+%26+Support+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=C%23+%2F+.NET+%2F+WPF;Python+%2F+Machine+Learning;SQL+Server+%26+Oracle;Internal+Tools+%26+Support+Automation" alt="Typing SVG" />
 
 <br/>
 
@@ -30,6 +30,7 @@ Odak noktam:
 - C# / .NET / WPF ile masaüstü uygulamalar
 - SQL Server / Oracle tarafında sorun analizi
 - REST API ve internal tool geliştirme
+- Python ile tekrar üretilebilir makine öğrenmesi ve görüntü işleme deneyleri
 
 ---
 
@@ -59,6 +60,14 @@ Odak noktam:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### AI & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -99,6 +108,24 @@ Odak noktam:
 
 ---
 
+## 🧪 Seçili AI & Machine Learning Projeleri
+
+| Proje | Odak | Mühendislik çıktıları |
+|---|---|---|
+| [Autoencoder Anomaly Lab](https://github.com/SabahattinAkal/autoencoder-anomaly-lab) | Denoising autoencoder, latent space ve anomaly detection | Leak-free threshold calibration, ROC/PR metrikleri, model card, API, Docker, CI |
+| [SOM Visual Analytics](https://github.com/SabahattinAkal/som-visual-analytics) | Self-Organizing Map ve açıklanabilir küme analizi | Sıfırdan NumPy implementasyonu, U-Matrix, component planes, topology metrics |
+| [Linear Models Workbench](https://github.com/SabahattinAkal/linear-models-workbench) | OLS, polynomial, Ridge, Lasso, Elastic Net, logistic regression | Sıfırdan algoritmalar, cross-validation, scikit-learn doğrulaması, görsel raporlar |
+| [LSTM Forecast Lab](https://github.com/SabahattinAkal/lstm-forecast-lab) | Vanilla RNN, LSTM, GRU, TCN ve time-series forecasting | Leakage-safe backtest, güçlü baselines, prediction intervals, dürüst model karşılaştırması |
+| [K-Means Color Studio](https://github.com/SabahattinAkal/kmeans-color-studio) | Renk quantization ve klasik görüntü tanılamaları | RGB/CIELAB, automatic K, histogram/equalization, CLI, API, Docker |
+| [Otsu Coin Vision](https://github.com/SabahattinAkal/otsu-coin-vision) | Otsu, watershed ve nesne sayımı | Threshold objective açıklaması, segmentation metrics, test fixtures, API |
+
+Bu projeler 2022 Erasmus dönemindeki küçük eğitim çalışmalarının, 2026'da test,
+CI, dokümantasyon, lisans ve gerçek deney çıktılarıyla yeniden tasarlanmış
+sürümleridir. Orijinal kodlar ilgili repoların arşiv dalı veya tarihsel
+repolarında korunur.
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -117,3 +144,4 @@ Gereksiz adımları azalt.
 Kullanıcının kafasını karıştırma.
 Hata varsa açık anlat.
 Çalışan şeyi araca dönüştür.
+```
